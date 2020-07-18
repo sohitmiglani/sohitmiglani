@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data scientist and computational biologist with a passion for scalability and efficiency of data pipelines and tools for statistical analysis and data visualisations.
+I'm a data scientist and computational biologist with a passion for scalability and efficiency of tools for statistical analysis and data visualisations.
 
 - 🔭 I’m currently working as a Research Associate for Trex Bio and also as a Research Assistant for the University of Chicago.
 - 🌱 I’m currently learning Genomics, Immunology and Advanced Python.
