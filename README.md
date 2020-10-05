@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm a data scientist and computational biologist with a passion for scalability and efficiency of tools for statistical analysis and data visualisations.
+I'm a computational biologist (and data scientist) with a passion for building bioinformatics tools that are scalable and efficient. I specialise in tools for automation of statistical analysis and data visualisations.
 
-- 🔭 I’m currently working as a Research Associate for Trex Bio and also as a Research Assistant for the University of Chicago.
+- 🔭 I’m a Junior Scientist II at University of California, San Francisco. I'm also a Research Associate at the University of Chicago and Trex Bio.
 - 🌱 I’m currently learning Genomics, Immunology and Advanced Python.
+- :notebook I am proficienct in Python (+ Flask/ Django), R (+ RShiny), Javascript (+ NodeJS, VueJS) and SQL.
 - 👯 I’m looking to collaborate on data analysis projects in the field of cancer genomics.
 - 🤔 I’m looking for help with getting connected with research professionals and professors.
-- 💬 Ask me about Single-Cell RNA-sequencing and Somatic Structural Variant Callers.
+- 💬 Ask me about Single-Cell RNA-sequencing, tRNA Profiling, Ribosome Profiling and Somatic Structural Variant Callers.
 - 📫 How to reach me: sohitmiglani@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I was born at 12 pm on a sunny Monday so my mom calls me the 'sunshine' of the house.
