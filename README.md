@@ -4,7 +4,7 @@ I'm a computational biologist (and data scientist) with a passion for building b
 
 - 🔭 I’m a Junior Scientist II at University of California, San Francisco. I'm also a Research Associate at the University of Chicago and Trex Bio.
 - 🌱 I’m currently learning Genomics, Immunology and Advanced Python.
-- :notebook I am proficienct in Python (+ Flask/ Django), R (+ RShiny), Javascript (+ NodeJS, VueJS) and SQL.
+- :notebook: I am proficienct in Python (+ Flask/ Django), R (+ RShiny), Javascript (+ NodeJS, VueJS) and SQL.
 - 👯 I’m looking to collaborate on data analysis projects in the field of cancer genomics.
 - 🤔 I’m looking for help with getting connected with research professionals and professors.
 - 💬 Ask me about Single-Cell RNA-sequencing, tRNA Profiling, Ribosome Profiling and Somatic Structural Variant Callers.
