@@ -2,7 +2,7 @@
 
 I'm a computational biologist (and data scientist) with a passion for building bioinformatics tools that are scalable and efficient. I specialise in tools for automation of statistical analysis and data visualisations.
 
-- 🔭 I’m a Junior Scientist II at University of California, San Francisco. I'm also a Research Associate at the University of Chicago and Trex Bio.
+- 🔭 I’m a Junior Scientist II at University of California, San Francisco. I'm also a Research Collaborator at the University of Chicago (Argonne National Laboratory) and Trex Bio.
 - 🌱 I’m currently learning Genomics, Immunology and Advanced Python.
 - :notebook: I am proficienct in Python (+ Flask/ Django), R (+ RShiny), Javascript (+ NodeJS, VueJS) and SQL.
 - 👯 I’m looking to collaborate on data analysis projects in the field of cancer genomics.
