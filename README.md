@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm a computational biologist (and data scientist) with a passion for building bioinformatics tools that are scalable and efficient. I specialise in tools for automation of statistical analysis and data visualisations.
+I'm a computational biologist (and data scientist) with a passion for impactful, replicable, and understandable scientific solutions. I specialise in tools for simulating biological concepts and statistical analyses of biologicl datasets.
 
-- 🔭 I’m a PhD Student in Quantitative Biology at Princeton University.
-- 🌱 I’m currently learning Genomics, Immunology and Advanced Python.
-- :notebook: I am proficienct in Python (+ Flask/ Django), R (+ RShiny), Javascript (+ NodeJS, VueJS) and SQL.
-- 👯 I’m looking to collaborate on data analysis projects in the field of cancer genomics.
-- 🤔 I’m looking for help with getting connected with research professionals and professors.
-- 💬 Ask me about Single-Cell RNA-sequencing, tRNA Profiling, Ribosome Profiling and Somatic Structural Variant Callers.
+- 🔭 I’m a 2nd year PhD Student in Quantitative and Computational Biology at Princeton University.
+- 🌱 I’m currently learning Biophysics, Soft Matter Mechanics, and Structural Biology.
+- :notebook: I am proficienct in Python (+ Flask/ Django), R (+ RShiny), Matlab, Mathematica and Web Development (HTML, CSS, JS).
+- 🤔 I’m looking to learn more about protein folding and protein language models.
+- 💬 Ask me about Protein folding, Conformational Structures, Machine Learning and Protein Language Models.
 - 📫 How to reach me: sohitmiglani@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I was born at 12 pm on a sunny Monday so my mom calls me the 'sunshine' of the house.
